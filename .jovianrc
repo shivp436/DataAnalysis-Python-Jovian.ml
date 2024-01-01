@@ -2,6 +2,12 @@
   "notebooks": {
     "2.2.1-python-practice-assignment.ipynb": {
       "slug": "bc051030d50747d4b99a27b4495abe0b"
+    },
+    "3.1.1-python-numerical-computing-with-numpy.ipynb": {
+      "slug": "e8a54e3e1f194abca3e3fc4691a7bc92"
+    },
+    "3.1.3-python-os-and-filesystem.ipynb": {
+      "slug": "505800adbde74a29a697cc3c37b6aa87"
     }
   }
 }
